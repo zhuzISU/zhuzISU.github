@@ -2,6 +2,7 @@
 title: "Teaching"
 date: "2016-05-05T21:48:51-07:00"
 ---
+- Spring 2017
 
 - Fall 2016
   - Stat 606, Advanced Spatial Statistics

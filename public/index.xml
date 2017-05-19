@@ -2,30 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zhengyuan Zhu on Zhengyuan Zhu</title>
-    <link>/index.xml</link>
+    <link>/./</link>
     <description>Recent content in Zhengyuan Zhu on Zhengyuan Zhu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Zhengyuan Zhu</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>About</title>
-      <link>/about/</link>
-      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
-      
-      <guid>/about/</guid>
-      <description>&lt;p&gt;This is a &amp;ldquo;hello world&amp;rdquo; example website for the &lt;a href=&#34;https://github.com/rstudio/blogdown&#34;&gt;&lt;strong&gt;blogdown&lt;/strong&gt;&lt;/a&gt; package. The theme was forked from &lt;a href=&#34;https://github.com/jrutheiser/hugo-lithium-theme&#34;&gt;@jrutheiser/hugo-lithium-theme&lt;/a&gt; and modified by &lt;a href=&#34;https://github.com/yihui/hugo-lithium-theme&#34;&gt;Yihui Xie&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
+    <atom:link href="//" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Publications</title>
-      <link>/publications/</link>
+      <link>/./publications/</link>
       <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
       
-      <guid>/publications/</guid>
+      <guid>/./publications/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Z. Zhu and M. L. Stein (2002) &amp;ldquo;Parameter Estimation for Fractional Brownian Surfaces.&amp;rdquo;  Statistica Sinica, 12, 863-883.&lt;/li&gt;
 &lt;li&gt;Z. Zhu and M. L. Stein (2005) &amp;ldquo;Spatial Sampling Design for Parameter Estimation of the Covariance Function.&amp;rdquo;  Journal of Statistical Planning and Inference. 134(2), 583-603.&lt;/li&gt;
@@ -35,54 +25,64 @@
     
     <item>
       <title>Teaching</title>
-      <link>/teaching/</link>
+      <link>/./teaching/</link>
       <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
       
-      <guid>/teaching/</guid>
+      <guid>/./teaching/</guid>
       <description>&lt;ul&gt;
-&lt;li&gt;Fall 2016
+&lt;li&gt;&lt;p&gt;Spring 2017&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Fall 2016&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Stat 606, Advanced Spatial Statistics&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Spring 2015
+
+&lt;li&gt;&lt;p&gt;Spring 2015&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Stat 521, Theory and Applications of Sample Surveys&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Fall 2014
+
+&lt;li&gt;&lt;p&gt;Fall 2014&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Stat 341, Theory of Probability &amp;amp; Statistics&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Fall 2013
+
+&lt;li&gt;&lt;p&gt;Fall 2013&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Stat 606, Advanced Spatial Statistics&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Spring 2012
+
+&lt;li&gt;&lt;p&gt;Spring 2012&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Stat 341, Theory of Probability &amp;amp; Statistics&lt;/li&gt;
 &lt;li&gt;Stat 521, Theory and Applications of Sample Surveys&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Spring 2011
+
+&lt;li&gt;&lt;p&gt;Spring 2011&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Stat 643, Advance Theory of Statistical Inference&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Fall 2010
+
+&lt;li&gt;&lt;p&gt;Fall 2010&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Stat 606, Advance Spatial Statistics&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Spring 2010
+
+&lt;li&gt;&lt;p&gt;Spring 2010&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Stat421, Survey Sampling Techniques&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Fall 2009
--Stat 341, Theory of Probability &amp;amp; Statistics&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Fall 2009
+-Stat 341, Theory of Probability &amp;amp; Statistics&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;strong&gt;Courses taught previously at UNC-Chapel Hill:&lt;/strong&gt;&lt;/p&gt;
