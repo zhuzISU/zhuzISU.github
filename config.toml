@@ -185,7 +185,9 @@ defaultContentLanguageInSubdir = false
 [[menu.main]]
   name = "Publications"
   url = "/publications/"
-
+[[menu.main]]
+  name = "Student"
+  url = "/student/"
 # Taxonomies.
 #[taxonomies]
 #  tag = "tags"
